@@ -6,7 +6,7 @@ According to a 2021 survey by Morgan Stanley on streaming services, 51 % of subs
 This EDA will explore the following question: How has Netflix’s content production changed over the years with respect to Genre and Country? Understanding Netflix's content strategy is vital for both Netflix and competing streaming services, to understand what captures viewers and keeps susbcribers happy. 
 
 Repository Files: 
-1. PPTX slides: R Project - Netflix Original 
+1. Presentation: Netflix Originals PDF Slides or R Project - Netflix Original PPTX file
 2. R files for data loading and wrangling files: data_loading.R and column_cleaning_functions 
 3. R visualization files: genre_visualizations.R, international_visualizations.R, overall_count_per_year_visualizations.R 
 
